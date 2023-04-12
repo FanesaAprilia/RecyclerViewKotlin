@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
                 rateSuperhero = "10/10"
             ),
             Superhero(
-                R.drawable.gaaraa,
+                R.drawable.gara4,
                 nameSuperhero = "Gaara",
                 descSuperhero = "Naruto: Shippuden",
                 rateSuperhero = "9.5/10"
